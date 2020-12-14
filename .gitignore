@@ -1,0 +1,5 @@
+model_output/
+.vscode/
+.DS_STORE
+dataset/
+.ipynb_checkpoints/
