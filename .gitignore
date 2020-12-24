@@ -3,3 +3,4 @@ model_output/
 .DS_STORE
 dataset/
 .ipynb_checkpoints/
+data/
